@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18391ff3-bec9-49b9-b5cf-0e717498f0db" name="Changes" comment="Completing Section 14.185: Map Continued and Adventure Game&#10;&#10;note: all sections 12+ i complete has is not the latest 2023 re-master, still pending">
+    <list default="true" id="18391ff3-bec9-49b9-b5cf-0e717498f0db" name="Changes" comment="Completing Section 14.186: Adding Exits to the Adventure game&#10;&#10;note: all sections 12+ i complete has is not the latest 2023 re-master, still pending">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678671184837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completing Section 14.186: Adding Exits to the Adventure game&#10;&#10;note: all sections 12+ i complete has is not the latest 2023 re-master, still pending">
+      <created>1678673044581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678673044581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completing Section 14.185: Map Continued and Adventure Game&#10;&#10;note: all sections 12+ i complete has is not the latest 2023 re-master, still pending" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completing Section 14.185: Map Continued and Adventure Game&#10;&#10;note: all sections 12+ i complete has is not the latest 2023 re-master, still pending" />
+    <MESSAGE value="Completing Section 14.186: Adding Exits to the Adventure game&#10;&#10;note: all sections 12+ i complete has is not the latest 2023 re-master, still pending" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completing Section 14.186: Adding Exits to the Adventure game&#10;&#10;note: all sections 12+ i complete has is not the latest 2023 re-master, still pending" />
   </component>
 </project>
