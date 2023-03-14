@@ -22,6 +22,8 @@ public class Main {
         tempExit.put("E", 3);
         tempExit.put("S", 4);
         tempExit.put("N", 5);
+        tempExit.put("X", null);
+
         locations.put(1, new Location(1, "You are standing at the end of a road before a small brick building", tempExit));
 
 
