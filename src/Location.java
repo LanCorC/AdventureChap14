@@ -10,16 +10,14 @@ public class Location {
                     Map<String, Integer> exits) {
         this.locationID = locationID;
         this.description = description;
+        this.exits = new HashMap<>();
         if (exits != null) {
-            this.exits = new HashMap<>(exits);
-        } else {
-            this.exits = new HashMap<>();
+            for (String key : exits.keySet()) { //Checks for fail Integer
+                if (exits.get(key) != null) {
+                    this.exits.put(key, exits.get(key));
+                }
+            }
         }
-//        for (String key : exits.keySet()) { //Checks for fail Integer
-//            if (exits.get(key) != null) {
-//                this.exits.put(key, exits.get(key));
-//            }
-//        }
         this.exits.put("Q", 0);
     }
 
